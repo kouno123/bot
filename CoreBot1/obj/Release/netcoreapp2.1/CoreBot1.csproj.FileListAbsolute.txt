@@ -1,0 +1,16 @@
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\bin\Release\netcoreapp2.1\CoreBot1.deps.json
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\bin\Release\netcoreapp2.1\CoreBot1.runtimeconfig.json
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\bin\Release\netcoreapp2.1\CoreBot1.runtimeconfig.dev.json
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\bin\Release\netcoreapp2.1\CoreBot1.dll
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\bin\Release\netcoreapp2.1\CoreBot1.pdb
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.csprojAssemblyReference.cache
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.csproj.CoreCompileInputs.cache
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.RazorAssemblyInfo.cache
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.RazorAssemblyInfo.cs
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.AssemblyInfoInputs.cache
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.AssemblyInfo.cs
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.RazorTargetAssemblyInfo.cache
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.dll
+C:\Users\aah02945\source\repos\CoreBot1\CoreBot1\obj\Release\netcoreapp2.1\CoreBot1.pdb
