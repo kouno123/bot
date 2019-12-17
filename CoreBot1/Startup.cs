@@ -48,13 +48,13 @@ namespace CoreBot1
             services.AddTransient<IBot, DialogAndWelcomeBot<MainDialog>>();
 
             // Create the bot as a transient. In this case the ASP Controller is expecting an IBot.
-            //services.AddTransient<IBot, WelcomeUserBot>();
+            services.AddTransient<IBot, WelcomeUserBot>();
 
-            services.AddBot<WelcomeUserBot>(options =>
-            {
+            //services.AddBot<WelcomeUserBot>(options =>
+            //{
                 //APP認証
-                options.CredentialProvider = new SimpleCredentialProvider("5842fbb5-39ff-4972-9f53-5203cf20c4c8", "h2x/@JX:5J?dK6013j9b/ALy5-_[2[Cv");
-            });
+                //options.CredentialProvider = new SimpleCredentialProvider("5842fbb5-39ff-4972-9f53-5203cf20c4c8", "h2x/@JX:5J?dK6013j9b/ALy5-_[2[Cv");
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
